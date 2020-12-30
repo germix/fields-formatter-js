@@ -1,0 +1,17 @@
+{
+  "name": "fields-formatter-js",
+  "version": "0.0.1-beta",
+  "main": "src/index",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/germix/fields-formatter-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/germix/fields-formatter-js/issues"
+  },
+  "homepage": "https://github.com/germix/fields-formatter-js#readme",
+  "description": ""
+}
